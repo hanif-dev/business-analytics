@@ -19,7 +19,7 @@
 
 [Link to report](https://github.com/hanif-dev/business-analytics/blob/main/Project-3/SQL%20PROJECT%20REPORT.pdf)
 
-[Database used](https://github.com/hanif-dev/chinook.db)
+[Database used](https://github.com/hanif-dev/business-analytics/blob/main/Project-3/chinook.db)
 
 [Queries used](https://github.com/hanif-dev/business-analytics/blob/main/Project-3/SQL%20QUERIES.txt)
 
@@ -28,4 +28,4 @@
  
 [Link to report](https://github.com/hanif-dev/business-analytics/blob/main/Project-4/Data%20Dashboard%20Project%20-%20US%20Census%20Demographic%20Data.pdf)
 
-[Database used](https://github.com/hanif-dev/.pdf)
+[Data used](https://github.com/hanif-dev/.pdf)
